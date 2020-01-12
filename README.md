@@ -1,6 +1,6 @@
 # adb-y-fastboot
 Si usas ADB puedes copiar archivos de tu ordenador a tu teléfono (y viceversa), instalar y desinstalar aplicaciones, ejecutar comandos Shell y un montón de cosas más. Algunas de las razones por las que tal vez quieras usar ADB es para hacer una copia de seguridad y restaurar tu dispositivo o instalar aplicaciones en tu tarjeta SD por defecto.
-(https://4.bp.blogspot.com/-gvOaz3rPMQw/XJuR4HMHhLI/AAAAAAAAOZY/D-TKcS_SX0Yn-sBgJQ8EpchZh6JuPXWEQCLcBGAs/s1600/Screenshot_37.png)
+![](https://4.bp.blogspot.com/-gvOaz3rPMQw/XJuR4HMHhLI/AAAAAAAAOZY/D-TKcS_SX0Yn-sBgJQ8EpchZh6JuPXWEQCLcBGAs/s1600/Screenshot_37.png)
 
 
 Sigueme en las redes Sociales:
